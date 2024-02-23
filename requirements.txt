@@ -2,6 +2,8 @@ termcolor
 webvtt-py
 path.py
 flask
-youtube-dl
+youtube-dl @ git+https://github.com/ytdl-org/youtube-dl@40bd5c18153afe765caa6726302ee1dd8a9a2ce6
 python-Levenshtein
 SpeechRecognition 
+numpy
+tqdm
