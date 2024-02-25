@@ -7,3 +7,4 @@ python-Levenshtein
 SpeechRecognition 
 numpy
 tqdm
+scipy
